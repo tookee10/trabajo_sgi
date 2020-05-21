@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE armamento SYSTEM "..\dtd\dtd_armas.dtd">
+<?xml-stylesheet type="text/xsl" href="armas.xsl"?>
+<armamento>
+	<armas n="1">
+		<nombre>Fusil de asalto</nombre>
+		<imagen>../media/fotos/fusildeasalto.png</imagen>
+	</armas>
+	<armas n="2">
+		<nombre>Scar</nombre>
+		<imagen>../media/fotos/scar.png</imagen>
+	</armas>
+	<armas n="3">
+		<nombre>Ak47</nombre>
+		<imagen>../media/fotos/ak47.png</imagen>
+	</armas>
+	<armas n="4">
+		<nombre>Subfusil</nombre>
+		<imagen>../media/fotos/subfusil.png</imagen>
+	</armas>
+	<armas n="5">
+		<nombre>Scorpion</nombre>
+		<imagen>../media/fotos/scorpion.png</imagen>
+	</armas>
+	<armas n="6">
+		<nombre>P90</nombre>
+		<imagen>../media/fotos/p90.png</imagen>
+	</armas>
+	<armas n="7">
+		<nombre>Lanzacohetes</nombre>
+		<imagen>../media/fotos/lanzacohetes.png</imagen>
+	</armas>
+	<armas n="8">
+		<nombre>Lanzagranadas</nombre>
+		<imagen>../media/fotos/lanzagranadas.png</imagen>
+	</armas>
+	<armas n="9">
+		<nombre>Escopeta de corredera</nombre>
+		<imagen>../media/fotos/pump.png</imagen>
+	</armas>
+	<armas n="10">
+		<nombre>Escopeta Táctica</nombre>
+		<imagen>../media/fotos/tactica.png</imagen>
+	</armas>
+	<armas n="11">
+		<nombre>Tactica Avanzada</nombre>
+		<imagen>../media/fotos/tacticaavanzada.png</imagen>
+	</armas>
+	<armas n="12">
+		<nombre>Fusil de Caza</nombre>
+		<imagen>../media/fotos/fusildecaza.png</imagen>
+	</armas>
+	<armas n="13">
+		<nombre>Francotirador</nombre>
+		<imagen>../media/fotos/francotirador.png</imagen>
+	</armas>
+	<armas n="14">
+		<nombre>Fusil de Francotirador Avanzado</nombre>
+		<imagen>../media/fotos/barret.png</imagen>
+	</armas>
+	<armas n="15">
+		<nombre>Pistola simple</nombre>
+		<imagen>../media/fotos/pistola.png</imagen>
+	</armas>
+	<armas n="16">
+		<nombre>Desert Eagle</nombre>
+		<imagen>../media/fotos/desert.png</imagen>
+	</armas>
+</armamento>

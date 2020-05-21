@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trajes SYSTEM "..\dtd\dtd_skins.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xml_xsl\skins.xslt"?>
+<trajes>
+	<skin n="1">
+		<nombre>Descubridora</nombre>
+		<temporada>1</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/descubridora.png</imagen>
+	</skin>
+	<skin n="2">
+		<nombre>Asaltador</nombre>
+		<temporada>1</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/asaltador.png</imagen>
+	</skin>
+	<skin n="3">
+		<nombre>Explorador</nombre>
+		<temporada>1</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/explorador.png</imagen>
+	</skin>
+	<skin n="4">
+		<nombre>Oficial Estratega</nombre>
+		<temporada>2</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/oficialestratega.png</imagen>
+	</skin>
+	<skin n="5">
+		<nombre>Dominadora</nombre>
+		<temporada>2</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/dominadora.png</imagen>
+	</skin>
+	<skin n="6">
+		<nombre>Devastador</nombre>
+		<temporada>2</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/devastador.png</imagen>
+	</skin>
+	<skin n="7">
+		<nombre>Explorador Carmesí</nombre>
+		<temporada>3</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/exploradorcarmesi.png</imagen>
+	</skin>
+	<skin n="8">
+		<nombre>Defensora Escarlata</nombre>
+		<temporada>3</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/defensoraescarlata.png</imagen>
+	</skin>
+	<skin n="9">
+		<nombre>Soldado Asalto de Altura</nombre>
+		<temporada>3</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/soldadoasaltodealtura.png</imagen>
+	</skin>
+	<skin n="10">
+		<nombre>Juego de Luces</nombre>
+		<temporada>4</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/juegodeluces.png</imagen>
+	</skin>
+	<skin n="11">
+		<nombre>Comando Patriota</nombre>
+		<temporada>4</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/comandopatriota.png</imagen>
+	</skin>
+	<skin n="12">
+		<nombre>Amenaza Triple</nombre>
+		<temporada>4</temporada>
+		<precio>1200</precio>
+		<imagen>../media/fotos/amenazatriple.png</imagen>
+	</skin>
+	<skin n="13">
+		<nombre>Sargento Parrilla</nombre>
+		<temporada>5</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/sargentoparrilla.png</imagen>
+	</skin>
+	<skin n="14">
+		<nombre>Boina Verde</nombre>
+		<temporada>5</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/boinaverde.png</imagen>
+	</skin>
+	<skin n="15">
+		<nombre>Armadillo</nombre>
+		<temporada>5</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/armadillo.png</imagen>
+	</skin>
+	<skin n="16">
+		<nombre>Artillera de Bruto</nombre>
+		<temporada>6</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/artilleradebruto.png</imagen>
+	</skin>
+	<skin n="17">
+		<nombre>Perro de Guerra fundido</nombre>
+		<temporada>6</temporada>
+		<precio>1500</precio>
+		<imagen>../media/fotos/perrodeguerrafundido.png</imagen>
+	</skin>
+	<skin n="18">
+		<nombre>Dama Roja Glacial</nombre>
+		<temporada>6</temporada>
+		<precio>1200</precio>
+		<imagen>../media/fotos/damarojaglacial.png</imagen>
+	</skin>
+	<skin n="19">
+		<nombre>Cuervopool</nombre>
+		<temporada>7</temporada>
+		<precio>1500</precio>
+		<imagen>../media/fotos/cuervopool.png</imagen>
+	</skin>
+	<skin n="20">
+		<nombre>Acorde Potente</nombre>
+		<temporada>7</temporada>
+		<precio>2000</precio>
+		<imagen>../media/fotos/acordepotente.png</imagen>
+	</skin>
+	<skin n="21">
+		<nombre>Arcángel</nombre>
+		<temporada>7</temporada>
+		<precio>2000</precio>
+		<imagen>../media/fotos/arcangel.png</imagen>
+	</skin>
+	<skin n="22">
+		<nombre>Kylo Ren</nombre>
+		<temporada>8</temporada>
+		<precio>1500</precio>
+		<imagen>../media/fotos/kyloren.png</imagen>
+	</skin>
+	<skin n="23">
+		<nombre>Marshmello</nombre>
+		<temporada>8</temporada>
+		<precio>1500</precio>
+		<imagen>../media/fotos/marshmello.png</imagen>
+	</skin>
+	<skin n="24">
+		<nombre>Dama Roja Ocura</nombre>
+		<temporada>8</temporada>
+		<precio>800</precio>
+		<imagen>../media/fotos/damarojaoscura.png</imagen>
+	</skin>
+	<skin n="25">
+		<nombre>Infierno</nombre>
+		<temporada>9</temporada>
+		<precio>Gratis</precio>
+		<imagen>../media/fotos/infierno.png</imagen>
+	</skin>
+	<skin n="26">
+		<nombre>Señor Muerte</nombre>
+		<temporada>9</temporada>
+		<precio>1200</precio>
+		<imagen>../media/fotos/señormuerte.png</imagen>
+	</skin>
+	<skin n="27">
+		<nombre>Bombardera Brillante</nombre>
+		<temporada>9</temporada>
+		<precio>1200</precio>
+		<imagen>../media/fotos/bombarderabrillante.png</imagen>
+	</skin>
+	<skin n="28">
+		<nombre>Azote</nombre>
+		<temporada>10</temporada>
+		<precio>1500</precio>
+		<imagen>../media/fotos/azote.png</imagen>
+	</skin>
+	<skin n="29">
+		<nombre>Demonio Militar</nombre>
+		<temporada>10</temporada>
+		<precio>1500</precio>
+		<imagen>../media/fotos/demoniomilitar.png</imagen>
+	</skin>
+	<skin n="30">
+		<nombre>Don Doblete</nombre>
+		<temporada>10</temporada>
+		<precio>1200</precio>
+		<imagen>../media/fotos/dondoblete.png</imagen>
+	</skin>
+</trajes>
